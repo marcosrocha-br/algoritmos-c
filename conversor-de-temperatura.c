@@ -1,9 +1,8 @@
-//O programa é um conversor de temperatura que utiliza as principais escalas Celsius, Fahrenheit, kelvin e Rankine
-//As funções de conversão foram escritas no arquivo externo "funcoes.h", declarado na diretiva de compilação
+//O programa Ã© um conversor de temperatura que utiliza as principais escalas Celsius, Fahrenheit, kelvin e Rankine
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "funcoes-cv.h" //Funções de conversão
+#include "funcoes-cv.h"
 int main() {
 	
 	int escolha;
